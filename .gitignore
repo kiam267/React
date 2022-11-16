@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/src
+
 App_copy.js
 Clock_copy_2.jsx
 Clock_copy.jsx
