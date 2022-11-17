@@ -5,14 +5,19 @@
 /.pnp
 .pnp.js
 
-# App_copy.js
-# Clock_copy_2.jsx
-# Clock_copy.jsx
-# Button.jsx
-# ClockList.jsx
+App_copy.js
+App copy.js
+index.html
 
-/src
-/public
+Button.jsx
+Clock copy.jsx
+Clock_copy copy.jsx
+Clock_copy_2.jsx
+Clock_copy.jsx
+ClassList.jsx
+Form.jsx
+
+
 
 
 # .js
