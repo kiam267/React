@@ -1,4 +1,4 @@
-# React shakol component 1 ta capital diye korte hai..
+# React sakol component 1 ta capital diye korte hai..
 
 
 ## component & Props

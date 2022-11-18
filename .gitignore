@@ -9,6 +9,7 @@ App_copy.js
 App copy.js
 index.html
 
+<<<<<<< HEAD
 src/Components/Button.jsx
 src/Components/Clock copy.jsx
 src/Components/Clock_copy copy.jsx
@@ -16,6 +17,15 @@ src/Components/Clock_copy_2.jsx
 src/Components/Clock_copy.jsx
 src/Components/ClassList.jsx
 src/Components/Form.jsx
+=======
+Button.jsx
+Clock copy.jsx
+Clock_copy copy.jsx
+Clock_copy_2.jsx
+Clock_copy.jsx
+ClassList.jsx
+Form.jsx
+>>>>>>> Components
 
 
 
