@@ -5,7 +5,7 @@
 1. function --> close
 2. Class --> close
 
-## State & Lifecycle
+## State & Lifecycle 
 1. state --> close
 2. Lifecycle --> close
 

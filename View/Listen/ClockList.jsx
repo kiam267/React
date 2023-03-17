@@ -1,12 +1,13 @@
 
-import Clock from "./Clock";
+import Clock from "./Clock_copy_2";
 
 function clockList({ quantity = [] }) {
   
-  return (
+  return (  
     <div>
       {/* {quantity.map((key) => <Clock key={key} />)} */}
       {quantity.map(() => <Clock key={Math.random()} />)}
+   
   </div>
   );
 }

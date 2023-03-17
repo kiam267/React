@@ -1,0 +1,15 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+.app{
+      width: 400px;
+      color: red;
+}
+#div{
+ background-color: #ffdd55;
+ color: #fff;
+ height: 300px;
+}

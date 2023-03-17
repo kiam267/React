@@ -12,15 +12,8 @@ import React from "react";
  */
 
 
-function App({locale}) {
-  // function --> component
-  return (
-  // atake --> element
-  <h1 className=''>
-      <span>Hellow  {new Date().toLocaleTimeString(locale)}</span>
-  </h1>
- );
-};
+
+
 
 
 class App extends React.Component{
@@ -35,27 +28,27 @@ class App extends React.Component{
 
   
   // jodi props state use jodi na kore tahole constructor use karar dorker nai...
-  // state = {
-  //   date: new Date()
-  // };
+  state = {
+    date: new Date()
+  };
 
 
 // Lifecycle Start
-  // componentDidMount() {
-  //    this.clockTimer =  setInterval(() => {this.trick()},1000);
-  // };
+  componentDidMount() {
+     this.clockTimer =  setInterval(() => {this.trick()},1000);
+  };
 
-  // componentWillUnmount(){
-  //   clearInterval(this.clockTimer);
-  // };
-  
+  componentWillUnmount(){
+    clearInterval(this.clockTimer);
+  };
+
   // Lifecycle End
   
-  // trick() {
-  //      this.setState({
-  //         date: new Date()
-  //       });
-  // };
+  trick() {
+       this.setState({
+          date: new Date()
+        });
+  };
 
 
 
